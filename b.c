@@ -13,7 +13,9 @@
 #include<unistd.h>
 int main()
 {
-
+	int i = 0;
+	i++;
+	printf("i = %d\n",%d);
 	return 0;
 
 }
